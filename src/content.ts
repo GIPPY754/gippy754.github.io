@@ -83,7 +83,7 @@ I am an Assistant Professor at **Peking University** and the Principal Investiga
         bio: '',
       },
       {
-        name: '张弛 · Chi Zhang',
+        name: '张驰 · Chi Zhang',
         role: 'Incoming Ph.D. student, Class of 2027',
         bio: '',
         photo: 'chi-zhang.jpg',
