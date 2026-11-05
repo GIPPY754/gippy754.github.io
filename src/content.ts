@@ -90,7 +90,8 @@ I am an Assistant Professor at **Peking University** and the Principal Investiga
       {
         name: '袁俊东 · Jundong Yuan',
         role: 'Undergraduate Student',
-        bio: '',
+        bio: 'Undergraduate student at Peking University, interested in quantum algorithms and their implementation in hybrid quantum systems.',
+        photo: 'jundong-yuan.jpg',
       },
     ] as GroupMember[],
   },
