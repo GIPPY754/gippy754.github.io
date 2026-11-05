@@ -79,12 +79,12 @@ I am an Assistant Professor at **Peking University** and the Principal Investiga
       },
       {
         name: '夏修泽 · Xiuze Xia',
-        role: 'Incoming Graduate Student',
+        role: 'Incoming Ph.D. student, Class of 2027',
         bio: '',
       },
       {
         name: '张弛 · Chi Zhang',
-        role: 'Direct-entry PhD student, Class of 2027',
+        role: 'Incoming Ph.D. student, Class of 2027',
         bio: '',
         photo: 'chi-zhang.jpg',
       },
