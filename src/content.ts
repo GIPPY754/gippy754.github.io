@@ -74,8 +74,9 @@ I am an Assistant Professor at **Peking University** and the Principal Investiga
       },
       {
         name: '陈子祺 · Ziqi Chen',
-        role: 'Graduate Student',
-        bio: '',
+        role: 'PhD Student',
+        bio: "I'm doing a PhD in quantum acoustics, and I love playing football until the light fades, letting a calligraphy brush find its rhythm on paper, breaking the hush with a \"Good evening\" at the mic, and setting out on the open road just to see where it leads.",
+        photo: 'ziqi-chen.jpg',
       },
       {
         name: '夏修泽 · Xiuze Xia',
