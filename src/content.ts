@@ -83,9 +83,10 @@ I am an Assistant Professor at **Peking University** and the Principal Investiga
         bio: '',
       },
       {
-        name: '张驰 · Chi Zhang',
-        role: 'Incoming Graduate Student',
+        name: '张弛 · Chi Zhang',
+        role: 'Direct-entry PhD student, Class of 2027',
         bio: '',
+        photo: 'chi-zhang.jpg',
       },
       {
         name: '袁俊东 · Jundong Yuan',
