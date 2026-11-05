@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Research cards: subtle lift + highlight when the card links to a paper */
+a.research-card {
+  transition: background 0.18s ease, transform 0.18s ease;
+}
+a.research-card:hover {
+  background: rgba(255, 255, 255, 0.13) !important;
+  transform: translateY(-2px);
+}

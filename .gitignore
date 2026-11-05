@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+._*
+*.log
+.env*
+!.env.example
+.claude/
+serve-dist.mjs
+start-static-server.ps1
+Research outline.pptx
+~$Research outline.pptx
+hong.jpg
+*-render.png
